@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  A passionate Developer from India, currently pursuing Engineering at <b>Atharva College of Engineering</b>. I love building web applications and exploring IoT technologies.
+  A passionate Developer from India. I love building web applications.
 </p>
 
 ---
@@ -14,16 +14,12 @@
 ### 🔭 I’m currently working on
 - **SMBT Junior College Website**: A comprehensive website solution for the educational institution.
 
-### 📄 Research & Publications
-- **Patient Monitoring using Geofencing Technology**: Co-authored a research paper published in **IJNRD** (International Journal of Novel Research and Development) and **IJRASET**. 
-  - *Description:* An IoT-based system using GPS and Geofencing to monitor patient movements within hospital premises and alert administrators via SMS if boundaries are breached.
-
 ### 🌱 I’m currently learning
 - **MERN Stack** (MongoDB, Express, React, Node.js)
 - **Next.js**
 
 ### 💬 Ask me about
-- **Javascript, Tailwind CSS, IoT Solutions**
+- **Javascript, Tailwind CSS**
 
 ### 📫 How to reach me
 - **Email**: [sahilamberkar2003@gmail.com](mailto:sahilamberkar2003@gmail.com)
