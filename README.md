@@ -1,74 +1,34 @@
-<h1 align="center">Hi 👋, I'm Sahil Amberkar</h1>
-<h3 align="center">Web Developer | Researcher | Student</h3>
+# Hi 👋, I'm Sahil Amberkar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilamberkar09&label=Profile%20views&color=0e75b6&style=flat" alt="sahilamberkar09" />
-</p>
+**Web Developer | Researcher | Student**
 
-<p align="center">
-  A passionate Developer from India. I love building web applications.
-</p>
+I am a passionate Developer from India who loves building web applications.
 
 ---
 
-### 🔭 I’m currently working on
-- **SMBT Junior College Website**: A comprehensive website solution for the educational institution.
+### 🔭 Projects I'm Working On
 
-### 🌱 I’m currently learning
-- **MERN Stack** (MongoDB, Express, React, Node.js)
-- **Next.js**
+* **SMBT Junior College Website**: A comprehensive website solution designed for the educational institution.
 
-### 💬 Ask me about
-- **Javascript, Tailwind CSS**
+---
 
-### 📫 How to reach me
-- **Email**: [sahilamberkar2003@gmail.com](mailto:sahilamberkar2003@gmail.com)
+### 🌱 What I'm Learning
+
+* **MERN Stack** (MongoDB, Express, React, Node.js)
+* **Next.js**
 
 ---
 
 ### 🛠 Languages and Tools
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+* **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS, Next.js
+* **Backend & Database:** PHP, MySQL, Oracle
+* **Design & Tools:** Figma, Photoshop, Blender, Git
 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
 
 ---
 
-### 📊 GitHub Stats
+### 💬 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilamberkar09&show_icons=true&locale=en&theme=radical" alt="sahilamberkar09" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilamberkar09&theme=radical" alt="sahilamberkar09" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilamberkar09&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahilamberkar09" />
-</p>
-
----
-
-### 🤝 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sahil-amberkar" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/_itz_sahil_9_" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/Sahilamberkar09" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+* **Email**: [sahilamberkar2003@gmail.com](mailto:sahilamberkar2003@gmail.com)
+* **Socials**: LinkedIn, Instagram, GitHub
