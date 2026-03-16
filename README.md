@@ -9,6 +9,8 @@ I am a passionate Developer from India who loves building web applications.
 ### 🔭 Projects I'm Working On
 
 * **SRK Taekwondo Website**: A comprehensive website solution designed for an Taekwondo Coaching Club.
+* **Hotel KM Website**: It's an website for an Hotel helping them with the reservations and staff management.
+* **Pixelora Website**: A Startup website designed for my startup has an website development company.
 
 ---
 
